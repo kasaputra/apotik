@@ -11,7 +11,7 @@
 
     <div class="loginwrapper">
         <div class="loginwrap zindex100 animate2 bounceInDown">
-        <h1 class="logintitle"><span class="iconfa-lock"></span> <?=get_option('site_app');?><span class="subtitle">Silahkan login untuk memulai.</span></h1>
+        <h1 class="logintitle"><span class="iconfa-lock"></span> <?=get_option('site_app');?><span class="subtitle">Silahkan login untuk memulai !!</span></h1>
             <div class="loginwrapperinner">
            <?php
 		   $att=array(
